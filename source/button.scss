@@ -1,6 +1,7 @@
+$color-button:#61185b;
 .product-button {
     display: block;
-    background-color: #44bd32;
+    background-color: $color-button;
     color: #fff;
     text-align: center;
     padding: 8px 0;
@@ -10,5 +11,5 @@
 }
 
 .product-button:hover {
-    background-color: #4cd137;
+    background-color: $color-button;
 }

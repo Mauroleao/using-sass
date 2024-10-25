@@ -17,7 +17,7 @@
 }
 .product-button {
   display: block;
-  background-color: #44bd32;
+  background-color: #61185b;
   color: #fff;
   text-align: center;
   padding: 8px 0;
@@ -27,7 +27,7 @@
 }
 
 .product-button:hover {
-  background-color: #4cd137;
+  background-color: #61185b;
 }
 
 * {
