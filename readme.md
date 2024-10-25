@@ -30,8 +30,8 @@ Este projeto tem como objetivo estudar e entender Sass (Syntactically Awesome St
 
 ## Estrutura do Projeto
 
-- `src/`: Contém os arquivos fonte Sass.
-- `dist/`: Contém os arquivos CSS compilados.
+- `source/`: Contém os arquivos fonte Sass.
+- `build/`: Contém os arquivos CSS compilados.
 
 ## Recursos de Aprendizado
 
